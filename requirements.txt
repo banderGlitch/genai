@@ -3,6 +3,7 @@ langchain
 langchain-openai
 langchain_google_genai
 langchain-community
+langchain-core
 python-dotenv
 pyaudio
 soundfile
@@ -10,3 +11,5 @@ SpeechRecognition
 git+https://github.com/openai/whisper.git
 Pillow
 numpy
+bs4
+faiss-cpu
