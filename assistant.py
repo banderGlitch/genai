@@ -43,7 +43,7 @@ class DesktopScreenshot:
             self.screenshot = screenshot
             self.lock.release()
 
-            time.sleep(0.1)  # Kurze Pause, um CPU-Auslastung zu reduzieren
+            time.sleep(0.1) 
 
     def read(self, encode=False):
         self.lock.acquire()
