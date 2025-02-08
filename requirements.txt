@@ -12,4 +12,5 @@ git+https://github.com/openai/whisper.git
 Pillow
 numpy
 bs4
+dotenv
 faiss-cpu
