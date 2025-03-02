@@ -1,0 +1,7 @@
+{
+    "graphs": {
+      "openai_agent": "./basicAgenticFlow.ipynb:graph"
+    },
+    "dependencies": ["."],
+    "env": "../.env"
+  }

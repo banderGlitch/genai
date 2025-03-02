@@ -16,4 +16,6 @@ dotenv
 faiss-cpu
 arxiv
 pymupdf
+langgraph-cli[inmem]
+langsmith
 langgraph
