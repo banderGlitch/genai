@@ -1,21 +1,33 @@
-opencv-python
-langchain
-langchain-openai
-langchain_google_genai
-langchain-community
-langchain-core
+streamlit
 python-dotenv
-pyaudio
-soundfile
-SpeechRecognition
-git+https://github.com/openai/whisper.git
-Pillow
-numpy
-bs4
-dotenv
-faiss-cpu
-arxiv
-pymupdf
-langgraph-cli[inmem]
-langsmith
+youtube_transcript_api
+langchain
+langchain-groq
+langchain-community
 langgraph
+langgraph-cli[inmem]
+google-auth
+google-auth-oauthlib
+l
+
+# opencv-python
+# langchain
+# langchain-openai
+# langchain_google_genai
+# langchain-community
+# langchain-core
+# python-dotenv
+# pyaudio
+# soundfile
+# SpeechRecognition
+# git+https://github.com/openai/whisper.git
+# Pillow
+# numpy
+# bs4
+# dotenv
+# faiss-cpu
+# arxiv
+# pymupdf
+# langgraph-cli[inmem]
+# langsmith
+# langgraph

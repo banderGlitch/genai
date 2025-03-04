@@ -139,7 +139,7 @@ def make_my_alternative_graph_new():
     tool_node = ToolNode([add, subtract, multiply, divide, power])
     ## binded my models with tools
     
-    model_with_tools = model.bind_tools([add, subtract, multiply, divide, power])
+    model_with_tools = model.bind_tools([add, subtract, multiply, divide, power],parallel_tool_calls=False)
     
     
     def call_model(state):
